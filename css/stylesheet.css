@@ -1,3 +1,6 @@
+/* html{
+    scroll-behavior: smooth;
+}
 .heading{
     color: red;
 }
@@ -6,4 +9,13 @@
 }
 #london_heading{
     background-color: pink;
+} */
+.lorem_ipsum{
+    border: 10px ridge lightgreen;
+    margin: 5px;
+}
+.lorem_ipsum span{
+    padding: 0 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
 }
